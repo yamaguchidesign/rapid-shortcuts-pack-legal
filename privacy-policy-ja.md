@@ -7,7 +7,7 @@
 ## 1. 運営者
 
 - **運営者名**: 山口翔平
-- **問い合わせ先**: support@kufudesign.com
+- **問い合わせ先**: rapid.shortcuts.support@gmail.com
 
 ## 2. 本プラグインが収集・送信する情報
 
